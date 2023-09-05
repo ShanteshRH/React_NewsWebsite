@@ -1,0 +1,11 @@
+business
+entertainment
+general
+health
+science
+sports
+technology
+
+accident_column=['Fine/Clear - Persons Killed','Mist/Foggy - Persons Killed','Cloudy - Persons Killed',
+                 'Rainy - Persons Killed','Snowfall - Persons Killed','Hail/Sleet - Persons Killed',
+                 'Dust/Storm - Persons Killed','Others - Persons Killed']
